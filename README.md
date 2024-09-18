@@ -1,16 +1,13 @@
-## Hi there 👋
+## Meu nome é Camilly Eduarda Vascão 
 
-<!--
-**millyvascao/millyvascao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+* Trabalho como lash e nail desing 
+* Tenho dois irmãos, e sou a filha mais velha
+* Gosto de ler e treinar
+* Já trabalhei com venda de doces
+* Amo animais e tenho 3 cachorras
+* Namoro a 1 ano e 10 meses
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  # Você pode entrar em contato comigo por
+  camilly.vascao@escola.pr.gov.br 
+
